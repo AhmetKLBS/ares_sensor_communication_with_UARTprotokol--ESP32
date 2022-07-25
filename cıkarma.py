@@ -3,3 +3,5 @@ def cıkarma:
 	y=4
 	sonuc=x-y
 	print(sonuc)
+def merhaba():
+	print("Merhaba")
